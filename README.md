@@ -16,5 +16,4 @@ Notes:
 This adapter board is not the official WiFi adapter for HS402 oscilloscope.
 So this design is not maintained or suported by the developer of HS402 oscilloscope. 
 This adapter is a reduced version with fewer functions (no voltage monitoring and no RGB LED indications).
-
 Order it only after you understand his limitations.
