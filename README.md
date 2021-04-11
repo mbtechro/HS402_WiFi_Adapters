@@ -12,6 +12,7 @@ For Version 2 (38 pins ESP32 NodeMCU) please follow the same steps.
 
 
 Notes:
+
 This adapter board is not the official WiFi adapter for HS402 oscilloscope.
 So this design is not maintained or suported by the developer of HS402 oscilloscope. 
 This adapter is a reduced version with fewer functions (no voltage monitoring and no RGB LED indications).
