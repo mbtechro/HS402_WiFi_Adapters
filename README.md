@@ -6,4 +6,5 @@ The adapter board was designed to allow a 30 pin (Version_1) or 38 pin (Version_
 !!! Before ordering this PCB adapter, ensure that your ESP32 NodeMCU board pinout (38 pin) is exactly as the one shown in the picture [NODEMCU-ESP32-38pins.png]!!!
  
 See detailed assembling steps for Version 1 (30 pins ESP32 NodeMCU) in https://github.com/mbtechro/HScope_WiFi_Adapters/blob/main/Version1_30pin/Readme.pdf.
+
 For Version 2 (38 pins ESP32 NodeMCU) please follow the same steps.
