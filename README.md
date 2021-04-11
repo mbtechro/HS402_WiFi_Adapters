@@ -1,4 +1,4 @@
-#HS402_WiFi_Adapters
+# HS402_WiFi_Adapters
 
 Description:
 Those are adapter boards that will allow you to use the HS402 oscilloscope wirelessly via an ESP32 NodeMCU (WROOM32 or WROOM32D).
