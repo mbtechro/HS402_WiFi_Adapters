@@ -6,6 +6,9 @@ Those are adapter boards that will allow you to use the HS402 oscilloscope wirel
 The adapter board was designed to allow a 30 pin (Version_1) or 38 pin (Version_2) NodeMCU (WROOM32 or WROOM32D) to be stacked on top of an STM32F411.
  
 !!! Before ordering this PCB adapter, ensure that your ESP32 NodeMCU board pinout (30 pin) is exactly as the one shown in the picture [ESP32_30pin_Layout]!!!
+
+
+
 !!! Before ordering this PCB adapter, ensure that your ESP32 NodeMCU board pinout (38 pin) is exactly as the one shown in the picture [ESP32_38pin_Layout]!!!
  
 See detailed assembling steps for Version 1 (30 pins ESP32 NodeMCU) in the Readme.pdf of the Version_1.
